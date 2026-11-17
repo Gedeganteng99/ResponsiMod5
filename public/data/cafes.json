@@ -1,0 +1,57 @@
+[
+  {
+    "id": "seed-1",
+    "name": "Kopi Sudut Tembalang",
+    "area": "Tembalang",
+    "address": "Jl. Contoh Raya No. 1, Tembalang, Semarang",
+    "avgPrice": 15000,
+    "hours": "08.00 - 23.00",
+    "wifi": true,
+    "outlet": true,
+    "notes": "Meja panjang, cocok buat kerja kelompok."
+  },
+  {
+    "id": "seed-2",
+    "name": "Warkop Tugas Akhir",
+    "area": "Sekitar Fakultas Teknik",
+    "address": "Jl. Contoh Teknik No. 7, Tembalang, Semarang",
+    "avgPrice": 10000,
+    "hours": "07.00 - 24.00",
+    "wifi": true,
+    "outlet": true,
+    "notes": "Harga paling bersahabat, ramai saat jam makan siang."
+  },
+  {
+    "id": "seed-3",
+    "name": "Senja Latte Corner",
+    "area": "Banjarsari",
+    "address": "Jl. Contoh Banjarsari No. 12, Tembalang, Semarang",
+    "avgPrice": 22000,
+    "hours": "10.00 - 22.00",
+    "wifi": true,
+    "outlet": false,
+    "notes": "Suasana tenang, pas buat baca jurnal."
+  },
+  {
+    "id": "seed-4",
+    "name": "Ngopi Santuy Kos",
+    "area": "Sekitar Kampus",
+    "address": "Jl. Contoh Kos No. 3, Tembalang, Semarang",
+    "avgPrice": 12000,
+    "hours": "09.00 - 01.00",
+    "wifi": false,
+    "outlet": true,
+    "notes": "Buka sampai dini hari, tempat lesehan."
+  },
+  {
+    "id": "seed-5",
+    "name": "Roastery Mahasiswa",
+    "area": "Tembalang",
+    "address": "Jl. Contoh Roastery No. 9, Tembalang, Semarang",
+    "avgPrice": 25000,
+    "hours": "11.00 - 22.00",
+    "wifi": true,
+    "outlet": true,
+    "notes": "Single origin, ada diskon pelajar dengan KTM."
+  }
+]
